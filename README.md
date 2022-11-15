@@ -1,6 +1,8 @@
 # Colab-DL
 ----
 
+##### Colab 코드 창에서 실행
+
 ### 1. Google Drive 접근
 
 ```
